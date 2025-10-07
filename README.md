@@ -26,7 +26,7 @@
 ### 🧰 My Arsenal
 <!-- Skills are ordered by my primary focus. -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql,aws,docker,linux,python,ts,js,html,css,git&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,php,mysql,aws,docker,linux,ts,js,html,css,git&perline=6" />
 </p>
 
 ---
@@ -45,24 +45,5 @@
 ### 📌 Featured Projects
 <!-- This section is automatically updated based on your pinned repositories. -->
 [![Readme Card](https://github-readme-pinned-repos.vercel.app/api?username=miyatsuko10004)](https://github.com/miyatsuko10004)
-
-
----
-<!-- 
-### 🌐 Find Me On The Web
-<!-- Add your social media links here, or remove the section if you prefer. -->
-<p align="center">
-  <a href="https://zenn.dev/[YOUR_ID]">
-    <img src="https://simpleicons.org/icons/zenn.svg" alt="zenn" height="30">
-  </a>
-  &nbsp;
-  <a href="https://qiita.com/[YOUR_ID]">
-    <img src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/43085/08a38535-436a-1143-32f7-33a36a310cbe.png" alt="qiita" height="30">
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/[YOUR_ID]">
-    <img src="https://simpleicons.org/icons/x.svg" alt="x" height="30">
-  </a>
-</p>
 
 -->
