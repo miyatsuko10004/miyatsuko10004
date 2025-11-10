@@ -42,6 +42,9 @@
 
 ---
 
+### Views
+![](https://komarev.com/ghpvc/?username=miyatsuko10004)
+
 ### 📌 Featured Projects
 <!-- This section is automatically updated based on your pinned repositories. -->
 [![Readme Card](https://github-readme-pinned-repos.vercel.app/api?username=miyatsuko10004)](https://github.com/miyatsuko10004)
