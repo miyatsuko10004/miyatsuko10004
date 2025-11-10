@@ -31,14 +31,16 @@
 
 ---
 
-### 📈 Activity Log
-<!-- Using the gruvbox theme for a more retro/nerdy feel. -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miyatsuko10004&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="miyatsuko10004's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyatsuko10004&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" alt="miyatsuko10004's Top Languages" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miyatsuko10004&theme=gruvbox&hide_border=true" alt="miyatsuko10004's Streak Stats" />
+## 📊 GitHub Stats
+
+<div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=miyatsuko10004&theme=bear" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miyatsuko10004&theme=bear&utcOffset=9" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miyatsuko10004&theme=bear" width="49%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miyatsuko10004&theme=bear" width="49%" />
 </div>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miyatsuko10004&theme=bear" alt="Profile Details" width="100%" />
 
 ---
 
