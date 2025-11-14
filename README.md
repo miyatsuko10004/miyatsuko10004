@@ -13,14 +13,6 @@
   </pre>
 </div>
 
-<p align="center">
-  <strong>$ whoami</strong>
-  <br><br>
-  A developer diving deep into the digital rabbit hole. My core mission is to build robust systems and solve complex problems. I primarily architect backend services with <strong>PHP</strong> and <strong>MySQL</strong>, orchestrate infrastructure using <strong>AWS</strong>, <strong>Docker</strong>, and <strong>Linux</strong>, and enjoy tackling algorithmic challenges with <strong>Python</strong> for competitive programming.
-  <br><br>
-  I'm also fluent in the web's native languages (<strong>TypeScript/JavaScript</strong>, <strong>HTML/CSS</strong>) and explore the frontiers of <strong>AI development</strong> and process automation with tools like <strong>GAS</strong> and <strong>Alteryx</strong>. My <a href="https://github.com/miyatsuko10004/TIL">TIL repo</a> serves as my external brain, logging my daily learnings.
-</p>
-
 ---
 
 ### 🧰 My Arsenal
