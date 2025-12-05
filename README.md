@@ -23,6 +23,23 @@
 
 ---
 
+<p>
+  <a href="https://github.com/miyatsuko10004">
+    <img
+      align="left"
+      height="170px"
+      src="https://github-readme-stats-two-pink-33.vercel.app/api?username=miyatsuko10004&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true"
+    />
+  </a>
+  <a href="https://github.com/miyatsuko10004">
+    <img
+      align="left"
+      height="170px"
+      src="https://github-readme-stats-two-pink-33.vercel.app/api/top-langs/?username=miyatsuko10004&layout=compact&theme=github_dark&count_private=true&include_all_commits=true"
+    />
+  </a>
+</p>
+
 ## 📊 GitHub Stats
 
 <div>
