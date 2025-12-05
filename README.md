@@ -26,7 +26,7 @@
 ## 📊 GitHub Stats
 
 <div>
-  <img src="https://github-readme-stats-rechtggql-miyatsuko10004s-projects.vercel.app/api/cards/stats?username=miyatsuko10004&count_private=true&theme=bear" width="49%" />
+  <img src="https://github-readme-stats-two-pink-33.vercel.app/api/cards/stats?username=miyatsuko10004&count_private=true&theme=bear" width="49%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miyatsuko10004&count_private=true&theme=bear&utcOffset=9" width="49%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miyatsuko10004&count_private=true&theme=bear" width="49%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miyatsuko10004&count_private=true&theme=bear" width="49%" />
