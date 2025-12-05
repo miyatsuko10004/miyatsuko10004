@@ -23,28 +23,11 @@
 
 ---
 
-<p>
-  <a href="https://github.com/miyatsuko10004">
-    <img
-      align="left"
-      height="170px"
-      src="https://github-readme-stats-two-pink-33.vercel.app/api?username=miyatsuko10004&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true"
-    />
-  </a>
-  <a href="https://github.com/miyatsuko10004">
-    <img
-      align="left"
-      height="170px"
-      src="https://github-readme-stats-two-pink-33.vercel.app/api/top-langs/?username=miyatsuko10004&layout=compact&theme=github_dark&count_private=true&include_all_commits=true"
-    />
-  </a>
-</p>
-
 ## 📊 GitHub Stats
 
 <div>
-  <img src="https://github-readme-stats-two-pink-33.vercel.app/api/cards/stats?username=miyatsuko10004&count_private=true&theme=bear" width="49%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miyatsuko10004&count_private=true&theme=bear&utcOffset=9" width="49%" />
+  <img src="https://github-profile-summary-neon.vercel.app/api?username=miyatsuko10004&count_private=true&show_icons=true&theme=bear&include_all_commits=true" width="49%" />
+  <img src="https://github-profile-summary-neon.vercel.app/api/cards/productive-time?username=miyatsuko10004&count_private=true&theme=bear&utcOffset=9" width="49%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miyatsuko10004&count_private=true&theme=bear" width="49%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miyatsuko10004&count_private=true&theme=bear" width="49%" />
 </div>
